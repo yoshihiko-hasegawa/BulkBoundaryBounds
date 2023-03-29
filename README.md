@@ -11,3 +11,9 @@ Author:
 Hasegawa Lab, Department of Information and Communication Engineering,
 Graduate School of Information Science and Technology,
 The University of Tokyo
+
+## Dependence
+* Julia
+** Statistics
+** StatsBase
+** PyCall
