@@ -32,6 +32,5 @@ The University of Tokyo
   - ujson
   - networkx
 - Julia
-   - Statistics
    - StatsBase
    - PyCall
