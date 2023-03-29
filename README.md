@@ -31,6 +31,8 @@ The University of Tokyo
   - sympy
   - ujson
   - networkx
+  - matplotlib
+  - pandas
 - Julia
    - StatsBase
    - PyCall
