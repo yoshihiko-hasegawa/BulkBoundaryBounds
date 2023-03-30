@@ -20,9 +20,11 @@ The University of Tokyo
 - batch_ClassicalTUR.py
   - Run simulation for classical TUR. 
   - To execute, type `python batch_ClassicalTUR.py`
+  - To record output, type `python batch_ClassicalTUR.py > output.txt`
 - batch_QuantumTUR.py
   - Run simulation for quantum TUR.
   - To execute, type `python batch_QuantumTUR.py`
+  - To record output, type `python batch_QuantumTUR.py > output.txt`
 
 ## Dependence
 - Python
