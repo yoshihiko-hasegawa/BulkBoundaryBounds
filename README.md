@@ -1,8 +1,9 @@
 # BulkBoundaryBounds
 
-Analysis code for "Thermodynamic Bounds via Bulk-Boundary Correspondence: Speed Limit, Thermodynamic Uncertainty Relation and Heisenberg Principle".
+Analysis code for
 
-Preprint at https://arxiv.org/abs/2203.12421
+Hasegawa, Y. Unifying speed limit, thermodynamic uncertainty relation and Heisenberg principle via bulk-boundary correspondence. Nature Communications 14, 2828 (2023). 
+https://doi.org/10.1038/s41467-023-38074-8
 
 Author:
 
